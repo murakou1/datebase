@@ -44,6 +44,7 @@ public class Sample3AuthConfiguration {
    * }
    */
 
+
   /**
    * 認証処理に関する設定（誰がどのようなロールでログインできるか）
    *
